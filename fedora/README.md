@@ -23,4 +23,4 @@ Using the Media Writer:
 * gimp
 * atom (see [https://atom.io](https://atom.io)) 
 * terminator
-* 
+* transmission
