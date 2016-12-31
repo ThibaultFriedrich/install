@@ -19,5 +19,7 @@ Using the Media Writer:
 
 ## Install software
 
-* install chromium
+* chrome
+* gimp
+* atom (see [https://atom.io](https://atom.io)) 
 
