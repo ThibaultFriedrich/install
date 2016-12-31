@@ -15,7 +15,7 @@ Using the Media Writer:
 
 ## Setup basic 
 
-
+* install flash (see [here](http://doc.fedora-fr.org/wiki/Flash_:_installation_du_plugin_propri%C3%A9taire))
 
 ## Install software
 
@@ -23,4 +23,4 @@ Using the Media Writer:
 * gimp
 * atom (see [https://atom.io](https://atom.io)) 
 * terminator
-
+* 
