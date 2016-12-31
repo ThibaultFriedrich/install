@@ -22,4 +22,5 @@ Using the Media Writer:
 * chrome (see [https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html))
 * gimp
 * atom (see [https://atom.io](https://atom.io)) 
+* terminator
 
