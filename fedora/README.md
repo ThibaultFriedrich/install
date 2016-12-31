@@ -16,6 +16,7 @@ Using the Media Writer:
 ## Setup basic 
 
 * install flash (see [here](http://doc.fedora-fr.org/wiki/Flash_:_installation_du_plugin_propri%C3%A9taire))
+* install gnome-tweak-tool
 
 ## Install software
 
