@@ -8,20 +8,14 @@ Using the Media Writer:
 * Install Media Writer
 * Install Fedora on an usb key.
 
-## Install 
+## Install
 
 * Boot the usb key in efi mode.
 * Setup keyboard in correct mode (azerty/qwerty/..)
 
-## Setup basic 
+## Setup
+
+> On fedora, I use GNOME so it may impact the installed tools.
 
 * install flash (see [here](http://doc.fedora-fr.org/wiki/Flash_:_installation_du_plugin_propri%C3%A9taire))
 * install gnome-tweak-tool
-
-## Install software
-
-* chrome (see [https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html))
-* gimp
-* atom (see [https://atom.io](https://atom.io)) 
-* terminator
-* transmission
