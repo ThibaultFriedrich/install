@@ -7,10 +7,11 @@ Tutorials to install and setup operating systems
 
 ## setup
 
+Zsh:
 
+* https://github.com/robbyrussell/oh-my-zsh with theme blinks
 
-
-## software
+## softwares
 
 ### general
 
@@ -18,7 +19,7 @@ Tutorials to install and setup operating systems
 
 ### sysadmin
 
-* terminator
+* terminator (see [config/terminator.desktop](config/terminator.desktop))
 * vim
 
 ### development
