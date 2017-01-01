@@ -6,7 +6,7 @@
 #(_)____|____/|_| |_|_| \_\\____|
 #
 # zsh file found on https://doc.ubuntu-fr.org/zsh
-
+# not used
 
 # Completion
 autoload -U compinit

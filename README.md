@@ -9,7 +9,7 @@ Tutorials to install and setup operating systems
 
 Zsh:
 
-* https://github.com/robbyrussell/oh-my-zsh with theme blinks
+* zsh ([oh-my-zsh](ttps://github.com/robbyrussell/oh-my-zsh) with theme blinks but without the **RPROMPT**)
 
 ## softwares
 
@@ -32,3 +32,6 @@ Zsh:
 
 * transmission
 * gimp
+* vlc
+* tor-browser
+* [dropbox](https://www.dropbox.com/install)

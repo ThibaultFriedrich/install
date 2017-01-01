@@ -19,3 +19,5 @@ Using the Media Writer:
 
 * install flash (see [here](http://doc.fedora-fr.org/wiki/Flash_:_installation_du_plugin_propri%C3%A9taire))
 * install gnome-tweak-tool
+* install repositories RPM Fusion (for vlc) (see [here](http://doc.fedora-fr.org/wiki/D%C3%A9p%C3%B4t_RPM_Fusion))
+* active gnome-shell extensions
