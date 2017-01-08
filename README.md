@@ -1,5 +1,6 @@
-# install
-Tutorials to install and setup operating systems
+# install-workstation
+
+Tutorials to install and setup operating systems for workstations
 
 ## systems
 
