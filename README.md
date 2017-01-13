@@ -1,6 +1,6 @@
 # install-workstation
 
-Tutorial to install and setup operating systems for workstations
+Tutorial to install and setup operating systems for linux workstations.
 
 ## systems
 
@@ -18,6 +18,7 @@ Zsh:
 
 * chrome (see [https://www.google.com/chrome/browser/desktop/index.html](https://www.google.com/chrome/browser/desktop/index.html))
 * thunderbird
+* [power management](https://fedoramagazine.org/saving-laptop-power-with-powertop/)
 
 ### security
 
