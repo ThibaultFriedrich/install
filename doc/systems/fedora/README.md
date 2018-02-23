@@ -24,3 +24,8 @@ Using the Media Writer:
 
 
 * http://doc.fedora-fr.org/wiki/Sudo
+
+
+## Softwares
+
+* [install vagrant](https://developer.fedoraproject.org/tools/vagrant/about.html)

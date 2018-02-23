@@ -30,6 +30,7 @@ Zsh:
 * terminator (see [config/terminator.desktop](config/terminator.desktop))
 * vim
 * filezilla
+* nmap
 
 ### development
 
@@ -37,6 +38,7 @@ Zsh:
 * git
 * atom see [https://atom.io](https://atom.io))
 * node (`curl --silent --location https://rpm.nodesource.com/setup_7.x | bash -`)
+* virtualbox
 
 ### media
 
