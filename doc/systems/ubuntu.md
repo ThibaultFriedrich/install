@@ -12,3 +12,10 @@ $ gsettings set org.gnome.desktop.wm.preferences button-layout 'close,maximize,m
 
 - https://unix.stackexchange.com/questions/261801/putting-a-network-interface-up-down-from-command-line
 - https://askubuntu.com/questions/1029250/ubuntu-18-04-ethernet-disconnected-after-suspend
+
+## Node
+
+```bash
+# apt-get install node-gyp
+
+```
